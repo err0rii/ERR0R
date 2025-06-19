@@ -10,9 +10,9 @@ I'm a Computer-Communication Engineering student & 3D modeling artist
 ---------------------------------------------------------------------------------------------------------------------------
 
 
-### My Current Status Radar 🧭
+### My Status Radar 🧭
 
-![Status Radar](https://image-charts.com/chart?cht=r&chs=500x500&chd=t:100,100,100,100,0,100&chl=Mathematics|Aiming|Electronics|Physical+Training|Relationship&chco=FF0000&chxt=x,y)
+[![View Status Radar](https://img.shields.io/badge/View%20Radar-Click%20Here-blueviolet)](https://<your-username>.github.io/<your-repo>/)
 
 
 
