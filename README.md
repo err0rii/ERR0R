@@ -12,7 +12,7 @@ I'm a Computer-Communication Engineering student & 3D modeling artist
 
 ### My Status Radar 🧭
 
-[![View Status Radar](https://img.shields.io/badge/View%20Radar-Click%20Here-blueviolet)](https://<your-username>.github.io/<your-repo>/)
+[![View Status Radar](https://img.shields.io/badge/View%20Radar-Click%20Here-blueviolet)](https://err0rii.github.io/ERR0R/)
 
 
 
