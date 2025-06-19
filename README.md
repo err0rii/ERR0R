@@ -8,7 +8,6 @@ I'm a Computer-Communication Engineering student & 3D modeling artist
 - 💬 Gamer, Gym rat, Calculus obsessor, Electronics enthusiast, and a vibe coder
 - ⚡ Languages: Python & C
 ---------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------
 ###
 &nbsp;
 
